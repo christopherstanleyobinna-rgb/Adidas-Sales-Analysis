@@ -26,7 +26,7 @@ Although the internship project guideline suggested Python, I selected Power BI 
 
 - Power BI supports real-time visual storytelling, which is ideal for management-level presentations.
 
-👉 Python remains a tool I intend to learn and apply in future projects, but Power BI was the most practical choice for this internship task.
+#### 👉 Python remains a tool I intend to learn and apply in future projects, but Power BI was the most practical choice for this internship task.
 
 # 🔄 Process Taken
 
@@ -69,10 +69,10 @@ Although the internship project guideline suggested Python, I selected Power BI 
 
 ### 6. Documentation
 
-Prepared report and recommendations. ![](Adidas Sales Analysis.pptx)
-
+Prepared report and recommendations. ![](Adidas-Sales-Analysis/blob/main/Adidas%20Sales%20Analysis.pptx)
 
 # 📈 Dashboard Overview
+
 
 ![](Adidas_dashboard.jpg)
 
@@ -90,7 +90,7 @@ Prepared report and recommendations. ![](Adidas Sales Analysis.pptx)
 
 
 # Regional & Retailer Insights
-![](report 1.jpg)
+![](report1.jpg)
 
 ### Insights
 
@@ -103,6 +103,7 @@ Prepared report and recommendations. ![](Adidas Sales Analysis.pptx)
 - Amazon & Walmart underperform.
 
 # Product & Profitability Analysis
+![](Report2.jpg)
 
 #### Insights
 
@@ -114,6 +115,8 @@ Prepared report and recommendations. ![](Adidas Sales Analysis.pptx)
 
 # Sales Method & Channel Effectiveness
 
+![](report3.jpg)
+
 #### Insights
 
 In-store: most profitable ($127.6M).
@@ -123,6 +126,7 @@ Online: fastest-growing channel (from $4.8M → $262.7M).
 Online sold the most units (939K).
 
 # 🎯 Recommendations
+
 ![](Adidas.jpg)
 
 - Online Optimization → Reduce fulfillment costs and introduce premium online-only products.
